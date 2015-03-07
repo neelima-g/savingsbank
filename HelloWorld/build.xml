@@ -10,7 +10,6 @@
 	<property name="war.dir"     value="war"/>
 	<property name="src.dir"      value="src"/>
 	<property name="web.dir"      value="WebContent"/>
-	<property name="jar.dir"      value="jars"/>
 
 
 	<!-- Define the CLASSPATH -->
