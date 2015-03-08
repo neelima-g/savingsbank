@@ -11,7 +11,7 @@
 	<property name="src.dir"      value="src"/>
 	<property name="web.dir"      value="WebContent"/>
         <property name="lib.dir" value="lib"/>
-
+       <property name="jsp.dir" value="jsp"/>
 	<!-- Define the CLASSPATH -->
 	<path id="compile.classpath">
 		<pathelement path="${env.CLASSPATH}"/>
