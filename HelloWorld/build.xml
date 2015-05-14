@@ -11,8 +11,6 @@
 	<property name="src.dir"      value="src"/>
 	<property name="web.dir"      value="WebContent"/>
 	<property name="ear.dir" value="ears" />
-	<property name="lib.dir" value="lib" />
-	<property name="lib.dir" value="lib" />
 
 
 	<!-- Define the CLASSPATH -->
