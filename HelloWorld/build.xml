@@ -4,7 +4,6 @@
 
 	<!-- Define the properties used by the build -->
 	<property environment="env" />
-	<property name="app.name"      value="hello"/>
 	<property name="work.dir"    value="work"/>
 	<property name="war.dir"     value="war"/>
 	<property name="src.dir"      value="src"/>
