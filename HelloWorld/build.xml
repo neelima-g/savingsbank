@@ -17,9 +17,6 @@
 		<fileset dir="${web.dir}">
 			<include name="**/*.jar"/>
 		</fileset>
-		<fileset dir="${web.dir}">
-			<include name="**/*.jar"/>
-		</fileset>
 	</path>
 
 	<target name="clean" description="Delete old directories">
