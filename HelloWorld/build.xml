@@ -17,9 +17,6 @@
 		<fileset dir="${web.dir}">
 			<include name="**/*.jar"/>
 		</fileset>
-		<fileset dir="${web.dir}">
-			<include name="**/*.jar"/>
-		</fileset>
 	</path>
 
 	<target name="clean" description="Delete old directories">
@@ -50,7 +47,7 @@
 
 
 	<target name="war" depends="compile" description="Create WAR file ">
-		<war warfile="${war.dir}/savings.war" basedir="${work.dir}"/>
+		<war warfile="${war.dir}/tele.war" basedir="${work.dir}"/>
 	</target>
 
 </project>
