@@ -47,7 +47,7 @@
 
 
 	<target name="war" depends="compile" description="Create WAR file ">
-		<war warfile="${war.dir}/savings.war" basedir="${work.dir}"/>
+		<war warfile="${war.dir}/savingsbankserv.war" basedir="${work.dir}"/>
 	</target>
 
 </project>
