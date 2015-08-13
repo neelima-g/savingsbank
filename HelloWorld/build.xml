@@ -4,7 +4,7 @@
 
 	<!-- Define the properties used by the build -->
 	<property environment="env" />
-	<property name="work.dir"    value="work"/>
+	<property name="work.dir"    value="build"/>
 	<property name="war.dir"     value="war"/>
 	<property name="src.dir"      value="src"/>
 	<property name="web.dir"      value="WebContent"/>
